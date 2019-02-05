@@ -146,9 +146,7 @@ footer small{
 }
 
 #index{
-  background-image: url(
-        777ktyt.github.io/bg-index.jpg
-      );
+  background-image: url(bg-index.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
